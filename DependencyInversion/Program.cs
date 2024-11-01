@@ -37,16 +37,9 @@ namespace Dependency_Inversion
 
     public class Book : File // модуль верхнего уровня, зависящий от абстрактного File
     {
-        public Book(string name) : base(name)
-        {
-        }
+        public Book(string name) : base(name) { }
 
-        public ISave
-            SaveBook
-        {
-            get;
-            set;
-        } // не зависящий от нижнего уровня, а использующий агрегацию имплементаторов интерфейса
+        public ISave SaveBook { get; set; } // не зависящий от нижнего уровня, а использующий агрегацию имплементаторов интерфейса
     }
 
     public class SaveToDisk : ISave // модули нижнего уровня, зависящие от абстракции
