@@ -1,0 +1,6 @@
+B:\Unity Courses\Projects\source\repos\OOP_rider\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.exe
+B:\Unity Courses\Projects\source\repos\OOP_rider\DependencyInversion\DependencyInversion\bin\Debug\DependencyInversion.pdb
+B:\Unity Courses\Projects\source\repos\OOP_rider\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.csproj.AssemblyReference.cache
+B:\Unity Courses\Projects\source\repos\OOP_rider\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.csproj.CoreCompileInputs.cache
+B:\Unity Courses\Projects\source\repos\OOP_rider\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.exe
+B:\Unity Courses\Projects\source\repos\OOP_rider\DependencyInversion\DependencyInversion\obj\Debug\DependencyInversion.pdb
